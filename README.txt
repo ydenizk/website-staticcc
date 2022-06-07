@@ -2,6 +2,7 @@
    -Simple Animations
    -CSS Grid
    -Dropdown menu
+   -Mask-image
 
 
 
